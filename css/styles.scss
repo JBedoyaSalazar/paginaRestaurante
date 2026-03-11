@@ -9,13 +9,17 @@ html {
 }
 
 body {
-    background-color: gray;
     font-size: 1.6rem;
     font-family: 'Times New Roman', Times, serif;
 }
 
 .cuerpo-principal {
     .primera-seccion {
+
+        background: url("../img/banner_1.png") center / cover no-repeat;
+        height: 100vh;
+
+
         &-encabezado {
             width: 100%;
             display: flex;
@@ -45,23 +49,23 @@ body {
             }
         }
 
-        .descripcion{
+        .descripcion {
             padding: 24px;
             width: 50%;
 
-            h1{
+            h1 {
                 font-size: 3.4rem;
                 line-height: 7rem;
                 color: white;
             }
 
-            p{
+            p {
                 color: white;
                 margin: 12px;
                 font-size: 20px;
             }
 
-            .btn-orden{
+            .btn-orden {
 
                 margin-left: 12px;
                 margin-top: 20px;
@@ -72,11 +76,12 @@ body {
                 border-radius: 16px;
                 cursor: pointer;
 
-                a{
+                a {
                     text-decoration: none;
                     color: white;
                 }
-                &:hover{
+
+                &:hover {
                     transform: scale(1.1);
                     transition: 0.5 ease-in-out;
                     color: #af544a;

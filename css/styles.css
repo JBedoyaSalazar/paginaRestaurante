@@ -9,11 +9,14 @@ html {
 }
 
 body {
-  background-color: gray;
   font-size: 1.6rem;
   font-family: "Times New Roman", Times, serif;
 }
 
+.cuerpo-principal .primera-seccion {
+  background: url("../img/banner_1.png") center/cover no-repeat;
+  height: 100vh;
+}
 .cuerpo-principal .primera-seccion-encabezado {
   width: 100%;
   display: flex;
