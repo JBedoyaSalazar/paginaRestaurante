@@ -3,7 +3,6 @@
 ![HTML](https://img.shields.io/badge/HTML-5-orange)
 ![SCSS](https://img.shields.io/badge/SCSS-Sass-pink)
 ![Status](https://img.shields.io/badge/status-en%20desarrollo-yellow)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 Proyecto de desarrollo web enfocado en la creación de una **página para un restaurante**, diseñada para ofrecer una interfaz clara y atractiva donde los usuarios puedan conocer promociones, navegar por el sitio y realizar pedidos.
 
